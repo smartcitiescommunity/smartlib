@@ -20,6 +20,8 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Global Cities Report  | https://www.kearney.com/global-cities/2022 | 2022 |
 | Smart Cities  Market  | https://www.nextmsc.com/report/smart-cities-market  | 2022 |
 | Safe Cities  | https://safecities.economist.com/ | 2021 |
+| EU Smart Cities  | https://ec.europa.eu/info/eu-regional-and-urban-development/topics/cities-and-urban-development/city-initiatives/smart-cities_en | 2022 |
+
 
 
 # Libros
@@ -28,7 +30,7 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | :-------------: | :-------------: | :-------------: |
 | El camino de desarrollo de las ciudades inteligentes | https://www.cepal.org/es/publicaciones/48000-camino-desarrollo-ciudades-inteligentes-evaluacion-bogota-buenos-aires-ciudad | 2022 |
 | Ciudades Inteligentes: Evaluación social de proyectos de Smart Cities | https://cet.la/estudios/cet-la/ciudades-inteligentes-evaluacion-social-proyectos-smart-cities/ | 2017 |
-| Safe Cities  | https://safecities.economist.com/ | 2021 |
+| Modelo de Ranking para Ciudades Inteligentes  | https://www.itsa.edu.co/docs/RANKING-SMART-CITY.pdf | 2019 |
 
 
 
