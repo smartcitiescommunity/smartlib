@@ -30,6 +30,8 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | The Arcadis Sustainable Cities Index | https://www.arcadis.com/en/knowledge-hub/perspectives/global/sustainable-cities-index | 2022 |
 | Quality of Life Index | https://www.numbeo.com/quality-of-life/rankings_current.jsp | 2022 |
 | Smart City Observatory | https://www.imd.org/smart-city-observatory/home/ | 2021 |
+| World Happiness Report  | https://worldhappiness.report/archive/https://worldhappiness.report/archive/ | 2022 |
+
 
 
 
