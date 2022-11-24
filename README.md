@@ -34,6 +34,8 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Modelo de Ranking para Ciudades Inteligentes  | https://www.itsa.edu.co/docs/RANKING-SMART-CITY.pdf | 2019 |
 | De la ciudad digital a la ciudad incluyente. La construcción de un capital sociotécnico | https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-01732013000200001 | 2019 |
 | Hacia la ciudad 4.0 | https://home.kpmg/es/es/home/tendencias/2017/11/hacia-ciudad-4-0.html | 2017 |
+| Informes Cities in Motion | https://citiesinmotion.iese.edu/indicecim/index.html?lang=es  | 2013-2022 |
+
 
 
 
