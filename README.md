@@ -32,6 +32,7 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Smart City Observatory | https://www.imd.org/smart-city-observatory/home/ | 2021 |
 | World Happiness Report  | https://worldhappiness.report/archive/https://worldhappiness.report/archive/ | 2022 |
 | Infrastructure Index | https://theworldtravelindex.com/en/cities/infrastructure-index/ | 2022 |
+| Digital Cities Index | https://impact.economist.com/projects/digital-cities/2022-executive-summary/ | 2022 |
 
 
 
