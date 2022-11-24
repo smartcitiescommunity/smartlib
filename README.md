@@ -1,7 +1,7 @@
 # Smartlib
 Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relacionados
 
-## Gracias a todos los que apoyan este proyecto con sus contribuciones ❤
+# Gracias a todos los que apoyan este proyecto con sus contribuciones ❤
 
  <a href = "https://github.com/smartcitiescommunity/smartlib/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=smartcitiescommunity/smartlib"/>
