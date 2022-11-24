@@ -12,6 +12,8 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Contenido | link | Año |
 | :-------------: | :-------------: | :-------------: |
 | Civikmind  | https://github.com/smartcitiescommunity/Civikmind | 2020 |
+| Smart Cities Assessment Tool | https://www.globalsmartcitiesalliance.org/smart-cities-assessment-tool | 2020 |
+
 
 # Contenidos
 
@@ -33,6 +35,11 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | World Happiness Report  | https://worldhappiness.report/archive/https://worldhappiness.report/archive/ | 2022 |
 | Infrastructure Index | https://theworldtravelindex.com/en/cities/infrastructure-index/ | 2022 |
 | Digital Cities Index | https://impact.economist.com/projects/digital-cities/2022-executive-summary/ | 2022 |
+| C40 Cities| https://www.c40.org/cities/ | 2022 |
+| Global Liveability Index | https://www.eiu.com/n/campaigns/global-liveability-index-2022/ | 2022 |
+| City Destinations Alliance | https://citydestinationsalliance.eu/research/ | 2022 |
+
+
 
 
 
