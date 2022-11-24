@@ -21,8 +21,11 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Smart Cities  Market  | https://www.nextmsc.com/report/smart-cities-market  | 2022 |
 | Safe Cities  | https://safecities.economist.com/ | 2021 |
 | Cities in Motion | https://www.iese.edu/es/claustro-investigacion/cities-in-motion/ | 2022 |
-| Global Power City Index | https://ec.europa.eu/info/eu-regional-and-urban-development/topics/cities-and-urban-development/city-initiatives/smart-cities_en | 2021 |
-| EU Smart Cities  | https://mori-m-foundation.or.jp/english/ius2/gpci2/index.shtml | 2022 |
+| EU Smart Cities | https://ec.europa.eu/info/eu-regional-and-urban-development/topics/cities-and-urban-development/city-initiatives/smart-cities_en | 2022 |
+| Global Power City Index   | https://mori-m-foundation.or.jp/english/ius2/gpci2/index.shtml | 2021 |
+| Schroders Global Cities Index | https://www.schroders.com/en/us/insights/global-cities-index/ | 2021 |
+
+
 
 
 
