@@ -20,6 +20,7 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Global Cities Report  | https://www.kearney.com/global-cities/2022 | 2022 |
 | Smart Cities  Market  | https://www.nextmsc.com/report/smart-cities-market  | 2022 |
 | Safe Cities  | https://safecities.economist.com/ | 2021 |
+| Cities in Motion | https://www.iese.edu/es/claustro-investigacion/cities-in-motion/ | 2022 |
 | EU Smart Cities  | https://ec.europa.eu/info/eu-regional-and-urban-development/topics/cities-and-urban-development/city-initiatives/smart-cities_en | 2022 |
 
 
