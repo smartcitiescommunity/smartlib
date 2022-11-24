@@ -4,6 +4,6 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 
 | Contenido | link | Año |
 | :-------------: | :-------------: | :-------------: |
-| Content Cell  | https://www.kearney.com/global-cities/2022 | 2022 |
+| Global Cities Report  | https://www.kearney.com/global-cities/2022 | 2022 |
 | Smart Cities  Market  | https://www.nextmsc.com/report/smart-cities-market  | 2022 |
 
