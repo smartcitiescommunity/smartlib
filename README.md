@@ -41,6 +41,8 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | E-Government Development Index | https://publicadministration.un.org/egovkb/en-us/About/Overview/-E-Government-Development-Index| 2022 |
 | Global City | https://en.wikipedia.org/wiki/Global_city| 2022 |
 | Global City Lab | http://globalcitylab.com/report.html| 2021 |
+| City Profile| https://www.smartcitiesworld.net/city-profile#aos-ArticleListingMoreContainer| 2021 |
+
 
 
 
