@@ -27,7 +27,7 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Contenido | link | Año |
 | :-------------: | :-------------: | :-------------: |
 | El camino de desarrollo de las ciudades inteligentes | https://www.cepal.org/es/publicaciones/48000-camino-desarrollo-ciudades-inteligentes-evaluacion-bogota-buenos-aires-ciudad | 2022 |
-| Smart Cities  Market  | https://www.nextmsc.com/report/smart-cities-market  | 2022 |
+| Ciudades Inteligentes: Evaluación social de proyectos de Smart Cities  | Ciudades Inteligentes: Evaluación social de proyectos de Smart Cities | 2017 |
 | Safe Cities  | https://safecities.economist.com/ | 2021 |
 
 
