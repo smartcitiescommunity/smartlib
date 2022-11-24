@@ -38,6 +38,7 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | C40 Cities| https://www.c40.org/cities/ | 2022 |
 | Global Liveability Index | https://www.eiu.com/n/campaigns/global-liveability-index-2022/ | 2022 |
 | City Destinations Alliance | https://citydestinationsalliance.eu/research/ | 2022 |
+| E-Government Development Index | https://publicadministration.un.org/egovkb/en-us/About/Overview/-E-Government-Development-Index| 2022 |
 
 
 
