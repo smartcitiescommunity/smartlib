@@ -44,14 +44,7 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Global City Lab | http://globalcitylab.com/report.html| 2021 |
 | City Profile| https://www.smartcitiesworld.net/city-profile#aos-ArticleListingMoreContainer| 2021 |
 | ITU Group| https://www.itu.int/en/ITU-T/studygroups/2017-2020/20/Pages/default.aspx | 2021 |
-
-
-
-
-
-
-
-
+| Desarrollo Mundial| https://openknowledge.worldbank.org/handle/10986/2124 | 2022 |
 
 
 # Libros y articulos
