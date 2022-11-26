@@ -58,5 +58,7 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Hacia la ciudad 4.0 | https://home.kpmg/es/es/home/tendencias/2017/11/hacia-ciudad-4-0.html | 2017 |
 | Informes Cities in Motion | https://citiesinmotion.iese.edu/indicecim/index.html?lang=es  | 2013-2022 |
 | Smart Cities and Communities: A Key Performance Indicators Framework | https://www.nist.gov/publications/smart-cities-and-communities-key-performance-indicators-framework  | 2022 |
+| Citizen Driven Innovation | https://www.openlivinglabs.eu/sites/enoll.org/files/Citizen_Driven_Innovation_Full.pdf | 2015 |
+
 
 
