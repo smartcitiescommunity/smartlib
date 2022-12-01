@@ -46,6 +46,7 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | ITU Group| https://www.itu.int/en/ITU-T/studygroups/2017-2020/20/Pages/default.aspx | 2021 |
 | Desarrollo Mundial| https://openknowledge.worldbank.org/handle/10986/2124 | 2022 |
 | Corruption Perceptions Index | https://www.transparency.org/en/cpi/ | 2021 |
+| GINI Index | https://data.worldbank.org/indicator/SI.POV.GINI?end=2021&start=2021&view=map | 2021 |
 
 
 # Libros y articulos
