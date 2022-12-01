@@ -47,6 +47,15 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Desarrollo Mundial| https://openknowledge.worldbank.org/handle/10986/2124 | 2022 |
 | Corruption Perceptions Index | https://www.transparency.org/en/cpi/ | 2021 |
 | GINI Index | https://data.worldbank.org/indicator/SI.POV.GINI?end=2021&start=2021&view=map | 2021 |
+| Poverty and Inequality Platform | https://pip.worldbank.org/home | 2019 |
+| G20 DGI Recommendations and Data | https://www.imf.org/en/News/Seminars/Conferences/DGI/g20-dgi-recommendations-and-data | 2021 |
+| Climate Change Indicators Dashboard | https://climatedata.imf.org/| 2021 |
+| Government finance statistics indicators| https://data.imf.org/?sk=c4f7655e-bd37-4683-8685-b7aa1818a832&sId=1437421172270 | 2022 |
+| Corruption Risk Transparency Index | https://corruptionrisk.org/transparency/ | 2021 |
+| Corruption Risk Index of Public Integrity | https://corruptionrisk.org/integrity/ | 2021 |
+| Human Development Index | https://hdr.undp.org/data-center/human-development-index | 2020 |
+| Global Multidimensional Poverty Index | https://hdr.undp.org/content/2022-global-multidimensional-poverty-index-mpi | 2022 |
+
 
 
 # Libros y articulos
