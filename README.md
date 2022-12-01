@@ -70,6 +70,7 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Informes Cities in Motion | https://citiesinmotion.iese.edu/indicecim/index.html?lang=es  | 2013-2022 |
 | Smart Cities and Communities: A Key Performance Indicators Framework | https://www.nist.gov/publications/smart-cities-and-communities-key-performance-indicators-framework  | 2022 |
 | Citizen-Driven Innovation : A Guidebook for City Mayors and Public Administrators | https://openknowledge.worldbank.org/handle/10986/21984 | 2015 |
+| The Skeptic’s Guide to Open Government | https://www.opengovpartnership.org/skeptics-guide-to-open-government-2022-edition/#toc_8 | 2022 |
 
 
 
