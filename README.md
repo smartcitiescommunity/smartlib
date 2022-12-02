@@ -23,7 +23,6 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Smart Cities  Market  | https://www.nextmsc.com/report/smart-cities-market  | 2022 |
 | Safe Cities  | https://safecities.economist.com/ | 2021 |
 | Cities in Motion | https://www.iese.edu/es/claustro-investigacion/cities-in-motion/ | 2022 |
-| EU Smart Cities | https://ec.europa.eu/info/eu-regional-and-urban-development/topics/cities-and-urban-development/city-initiatives/smart-cities_en | 2022 |
 | Global Power City Index   | https://mori-m-foundation.or.jp/english/ius2/gpci2/index.shtml | 2021 |
 | Schroders Global Cities Index | https://www.schroders.com/en/us/insights/global-cities-index/ | 2021 |
 | Smart Cities Index | https://smartcitiesindex.org/home00 | 2021 |
@@ -39,22 +38,17 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Global Liveability Index | https://www.eiu.com/n/campaigns/global-liveability-index-2022/ | 2022 |
 | City Destinations Alliance | https://citydestinationsalliance.eu/research/ | 2022 |
 | E-Government Development Index | https://publicadministration.un.org/egovkb/en-us/About/Overview/-E-Government-Development-Index| 2022 |
-| Global City | https://en.wikipedia.org/wiki/Global_city| 2022 |
-| Global City Lab | http://globalcitylab.com/report.html| 2021 |
 | City Profile| https://www.smartcitiesworld.net/city-profile#aos-ArticleListingMoreContainer| 2021 |
-| ITU Group| https://www.itu.int/en/ITU-T/studygroups/2017-2020/20/Pages/default.aspx | 2021 |
 | Desarrollo Mundial| https://openknowledge.worldbank.org/handle/10986/2124 | 2022 |
 | Corruption Perceptions Index | https://www.transparency.org/en/cpi/ | 2021 |
 | GINI Index | https://data.worldbank.org/indicator/SI.POV.GINI?end=2021&start=2021&view=map | 2021 |
 | Poverty and Inequality Platform | https://pip.worldbank.org/home | 2019 |
-| G20 DGI Recommendations and Data | https://www.imf.org/en/News/Seminars/Conferences/DGI/g20-dgi-recommendations-and-data | 2021 |
 | Climate Change Indicators Dashboard | https://climatedata.imf.org/| 2021 |
 | Government finance statistics indicators| https://data.imf.org/?sk=c4f7655e-bd37-4683-8685-b7aa1818a832&sId=1437421172270 | 2022 |
 | Corruption Risk Transparency Index | https://corruptionrisk.org/transparency/ | 2021 |
 | Corruption Risk Index of Public Integrity | https://corruptionrisk.org/integrity/ | 2021 |
 | Human Development Index | https://hdr.undp.org/data-center/human-development-index | 2020 |
 | Global Multidimensional Poverty Index | https://hdr.undp.org/content/2022-global-multidimensional-poverty-index-mpi | 2022 |
-
 
 
 # Libros y articulos
@@ -74,6 +68,15 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Sustainability Reporting Trends | https://www.ga-institute.com/research/ga-research-directory/sustainability-reporting-trends/2022-sustainability-reporting-in-focus.html | 2022 |
 | GRI Standards | https://www.globalreporting.org/standards | 2022 |
 | Social impact measurement | https://www.brightest.io/social-impact-measurement | 2022 |
+| ITU Group| https://www.itu.int/en/ITU-T/studygroups/2017-2020/20/Pages/default.aspx | 2021 |
+| EU Smart Cities | https://ec.europa.eu/info/eu-regional-and-urban-development/topics/cities-and-urban-development/city-initiatives/smart-cities_en | 2022 |
+| G20 DGI Recommendations and Data | https://www.imf.org/en/News/Seminars/Conferences/DGI/g20-dgi-recommendations-and-data | 2021 |
+| Global City | https://en.wikipedia.org/wiki/Global_city| 2022 |
+| Global City Lab | http://globalcitylab.com/report.html| 2021 |
+| SASB Standards | https://www.sasb.org/standards/download/?lang=en-us  | 2021 |
+| Social Impact Measurement Model | https://www2.deloitte.com/us/en/pages/consulting/solutions/corporate-social-impact-measurement-metrics.html
+  | 2021 |
+
 
 # Gracias a todos los que apoyan este proyecto con sus contribuciones ❤
 
