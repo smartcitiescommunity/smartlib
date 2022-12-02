@@ -13,6 +13,7 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Civikmind  | https://github.com/smartcitiescommunity/Civikmind | 2020 |
 | Smart Cities Assessment Tool | https://www.globalsmartcitiesalliance.org/smart-cities-assessment-tool | 2020 |
 | Intelligence | https://intelligence.weforum.org/topics/a1Gb0000000LiPhEAK & https://intelligence.weforum.org/topics/a1Gb0000000pTDZEA2 | 2022 |
+| IRIS Catalog of Metrics | https://iris.thegiin.org/metrics/ | 2022 |
 
 
 # Contenidos
