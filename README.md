@@ -1,11 +1,10 @@
 # Smartlib
 Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relacionados
 
-# Gracias a todos los que apoyan este proyecto con sus contribuciones ❤
-
- <a href = "https://github.com/smartcitiescommunity/smartlib/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=smartcitiescommunity/smartlib"/>
- </a>
+| Problema a resolver |
+| --- |
+| Actualmente los problemas sociales en las ciudades son multidimensionales, no obstante todo se resume a solidaridad y colaboración. Sin esto, es complejo el intentar resolver problemas sociales, pero es aun más complejo, es el no disponer de una herramienta que permita convertir información, datos, propositos, ideas, proyectos y diagnosticos en impacto social positivo en acción. Esto convierte a Civikmind en una solución estrategica para aunar esfuerzos y concentrar a todas las partes interesadas de un reto y llevarlo acabo. No se puede depender de la voluntad politica cuando el sector público y privado aun registren altos niveles de corrupción e impacto medio ambiental negativo, mostrando así e inequivocamente su ausencia de conciencia social. Se hace necesario entonces la inteligencia colectiva, el uso de modelos disruptivos, datos abiertos  realizados de forma etica y con transparencia.
+|
 
 # Herramientas
 
@@ -72,6 +71,12 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Smart Cities and Communities: A Key Performance Indicators Framework | https://www.nist.gov/publications/smart-cities-and-communities-key-performance-indicators-framework  | 2022 |
 | Citizen-Driven Innovation : A Guidebook for City Mayors and Public Administrators | https://openknowledge.worldbank.org/handle/10986/21984 | 2015 |
 | The Skeptic’s Guide to Open Government | https://www.opengovpartnership.org/skeptics-guide-to-open-government-2022-edition/#toc_8 | 2022 |
+
+# Gracias a todos los que apoyan este proyecto con sus contribuciones ❤
+
+ <a href = "https://github.com/smartcitiescommunity/smartlib/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=smartcitiescommunity/smartlib"/>
+ </a>
 
 
 
