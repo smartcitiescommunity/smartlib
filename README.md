@@ -63,6 +63,7 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Contenido | link | Año |
 | :-------------: | :-------------: | :-------------: |
 | El camino de desarrollo de las ciudades inteligentes | https://www.cepal.org/es/publicaciones/48000-camino-desarrollo-ciudades-inteligentes-evaluacion-bogota-buenos-aires-ciudad | 2022 |
+| Guía de Transformación Digital del Gobierno | https://publications.iadb.org/publications/spanish/document/Guia-de-transformacion-digital-del-gobierno.pdf | 2022 |
 | Ciudades Inteligentes: Evaluación social de proyectos de Smart Cities | https://cet.la/estudios/cet-la/ciudades-inteligentes-evaluacion-social-proyectos-smart-cities/ | 2017 |
 | Modelo de Ranking para Ciudades Inteligentes  | https://www.itsa.edu.co/docs/RANKING-SMART-CITY.pdf | 2019 |
 | De la ciudad digital a la ciudad incluyente. La construcción de un capital sociotécnico | https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-01732013000200001 | 2019 |
