@@ -72,7 +72,8 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Citizen-Driven Innovation : A Guidebook for City Mayors and Public Administrators | https://openknowledge.worldbank.org/handle/10986/21984 | 2015 |
 | The Skeptic’s Guide to Open Government | https://www.opengovpartnership.org/skeptics-guide-to-open-government-2022-edition/#toc_8 | 2022 |
 | Sustainability Reporting Trends | https://www.ga-institute.com/research/ga-research-directory/sustainability-reporting-trends/2022-sustainability-reporting-in-focus.html | 2022 |
-
+| GRI Standards | https://www.globalreporting.org/standards | 2022 |
+| Social impact measurement | https://www.brightest.io/social-impact-measurement | 2022 |
 
 # Gracias a todos los que apoyan este proyecto con sus contribuciones ❤
 
