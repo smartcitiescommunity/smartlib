@@ -49,6 +49,8 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Corruption Risk Index of Public Integrity | https://corruptionrisk.org/integrity/ | 2021 |
 | Human Development Index | https://hdr.undp.org/data-center/human-development-index | 2020 |
 | Global Multidimensional Poverty Index | https://hdr.undp.org/content/2022-global-multidimensional-poverty-index-mpi | 2022 |
+| GovTech Maturity Index | https://www.worldbank.org/en/data/interactive/2022/10/21/govtech-maturity-index-gtmi-data-dashboard | 2022 |
+
 
 
 # Libros y articulos
@@ -76,6 +78,16 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | SASB Standards | https://www.sasb.org/standards/download/?lang=en-us  | 2021 |
 | Social Impact Measurement Model | https://www2.deloitte.com/us/en/pages/consulting/solutions/corporate-social-impact-measurement-metrics.html | 2021 |
 | World Cities Report 2022: Envisaging the Future of Cities | https://unhabitat.org/wcr/ | 2021 |
+
+
+
+# Dataset
+
+| Contenido | link | Año |
+| :-------------: | :-------------: | :-------------: |
+| IDB Social Data | https://scl.datamig.org/data?indicators=pobreza| 2020 |
+| Govtech Dataset  | https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset| 2020 |
+| Digital Governance Projects | https://datacatalog.worldbank.org/search/dataset/0038056/Digital-Governance-Projects-Database| 2020 |
 
 
 
