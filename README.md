@@ -74,8 +74,9 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Global City | https://en.wikipedia.org/wiki/Global_city| 2022 |
 | Global City Lab | http://globalcitylab.com/report.html| 2021 |
 | SASB Standards | https://www.sasb.org/standards/download/?lang=en-us  | 2021 |
-| Social Impact Measurement Model | https://www2.deloitte.com/us/en/pages/consulting/solutions/corporate-social-impact-measurement-metrics.html
-  | 2021 |
+| Social Impact Measurement Model | https://www2.deloitte.com/us/en/pages/consulting/solutions/corporate-social-impact-measurement-metrics.html | 2021 |
+| World Cities Report 2022: Envisaging the Future of Cities | https://unhabitat.org/wcr/ | 2021 |
+
 
 
 # Gracias a todos los que apoyan este proyecto con sus contribuciones ❤
