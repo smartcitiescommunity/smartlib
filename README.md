@@ -62,6 +62,7 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 
 | Contenido | link | Año |
 | :-------------: | :-------------: | :-------------: |
+| ISO 37101 - Sustainable development in communities | https://www.iso.org/publication/PUB100394.html | 2016 |
 | El camino de desarrollo de las ciudades inteligentes | https://www.cepal.org/es/publicaciones/48000-camino-desarrollo-ciudades-inteligentes-evaluacion-bogota-buenos-aires-ciudad | 2022 |
 | Guía de Transformación Digital del Gobierno | https://publications.iadb.org/publications/spanish/document/Guia-de-transformacion-digital-del-gobierno.pdf | 2022 |
 | Ciudades Inteligentes: Evaluación social de proyectos de Smart Cities | https://cet.la/estudios/cet-la/ciudades-inteligentes-evaluacion-social-proyectos-smart-cities/ | 2017 |
