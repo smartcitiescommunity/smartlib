@@ -50,6 +50,11 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | Human Development Index | https://hdr.undp.org/data-center/human-development-index | 2020 |
 | Global Multidimensional Poverty Index | https://hdr.undp.org/content/2022-global-multidimensional-poverty-index-mpi | 2022 |
 | GovTech Maturity Index | https://www.worldbank.org/en/data/interactive/2022/10/21/govtech-maturity-index-gtmi-data-dashboard | 2022 |
+| Perfis das cidades brasileiras | https://idsc.cidadessustentaveis.org.br/profiles | 2022 |
+| Sustainable Development Index  | https://www.sustainabledevelopmentindex.org/ | 2019 |
+| The Partnership Platform | https://sdgs.un.org/partnerships/browse | 2022 |
+
+
 
 
 
