@@ -84,8 +84,7 @@ Datos, información y conocimiento sobre Ciudades Inteligentes y Fenomenos Relac
 | SASB Standards | https://www.sasb.org/standards/download/?lang=en-us  | 2021 |
 | Social Impact Measurement Model | https://www2.deloitte.com/us/en/pages/consulting/solutions/corporate-social-impact-measurement-metrics.html | 2021 |
 | World Cities Report 2022: Envisaging the Future of Cities | https://unhabitat.org/wcr/ | 2021 |
-
-
+|  Global Gender Gap Report | https://www.weforum.org/reports/global-gender-gap-report-2022 | 2022 |
 
 # Dataset
 
